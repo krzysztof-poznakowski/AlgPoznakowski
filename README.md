@@ -1,0 +1,4 @@
+AlgPoznakowski
+==============
+
+AlgPoznakowski
