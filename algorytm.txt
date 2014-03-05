@@ -1,6 +1,9 @@
 
 if wynik > n then
 	doAlgo = false;
-else
+else if(wynik == n) {
 	doAlgo = true;
+	cholernyAlgo(n);
+	return;
+}
 	
