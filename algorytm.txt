@@ -1,0 +1,6 @@
+
+if wynik > n then
+	doAlgo = false;
+else
+	doAlgo = true;
+	
